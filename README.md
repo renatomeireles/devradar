@@ -1,6 +1,9 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+Projeto feito na SemanaOmnistack 10 da <a href="https://rocketseat.com.br/">Rocketseat</a>
 </h1>
+<h2 align="center">
+    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+</h2>
 
 <h4 align="center">
   🚀 Semana OmniStack 10.0

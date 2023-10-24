@@ -42,10 +42,18 @@ Projeto feito na SemanaOmnistack 10 da <a href="https://rocketseat.com.br/">Rock
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
--  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&link=https://nodejs.org/en/)
--  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=3998B6&link=https://react.dev/)
--  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React&link=https://reactnative.dev/)
--  ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&link=https://expo.io/)
+<a href="https://nodejs.org/en/" alt="NodeJS link" target="_blank">
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="NodeJS">
+</a>
+<a href="https://react.dev/" alt="React link" target="_blank">
+<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=3998B6" alt="React">
+</a>
+<a href="https://reactnative.dev/" alt="React Native link" target="_blank">
+<img src="https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React" alt="React Native">
+</a>
+<a href="https://expo.io/" alt="Expo link" target="_blank">
+<img src="https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo" alt="Expo">
+</a>
 
 ## 💻 Projeto
 

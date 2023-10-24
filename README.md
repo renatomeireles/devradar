@@ -43,7 +43,7 @@ Projeto feito na SemanaOmnistack 10 da <a href="https://rocketseat.com.br/">Rock
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
-[<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="NodeJS">]{:target="_blank"}(https://nodejs.org/en/)
+[<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="NodeJS">](https://nodejs.org/en/)
 [<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=3998B6" alt="React">](https://react.dev/)
 [<img src="https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React" alt="React Native">](https://reactnative.dev/)
 [<img src="https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo" alt="Expo">](https://expo.io/)
